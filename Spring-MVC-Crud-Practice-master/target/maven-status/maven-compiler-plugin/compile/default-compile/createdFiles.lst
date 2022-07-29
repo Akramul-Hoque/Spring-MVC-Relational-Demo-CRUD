@@ -1,0 +1,7 @@
+com\example\configuration\ShopServlet.class
+com\example\code\model\Company.class
+com\example\code\repository\CompanyRepository.class
+com\example\code\controller\CompanyController.class
+com\example\configuration\JPAConfiguration.class
+com\example\configuration\WebAppInitializer.class
+com\example\code\service\CompanyService.class
